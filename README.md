@@ -3,7 +3,7 @@
 A starter repo for building and validating a personal portfolio webpage.
 
 <!-- Optional (extension B): add your workflow status badge here -->
-
+[![Portfolio Pipeline](https://github.com/DylanTDo/Assignment-3/actions/workflows/pipeline.yml/badge.svg)](https://github.com/DylanTDo/Assignment-3/actions/workflows/pipeline.yml)
 ## Structure
 
 ```
